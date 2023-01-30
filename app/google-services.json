@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686544401640",
+    "project_id": "veg4you-b78f7",
+    "storage_bucket": "veg4you-b78f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686544401640:android:a3ce76a418360c8fe0455d",
+        "android_client_info": {
+          "package_name": "com.example.merokisanbazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686544401640-i2pk0f6nq3j33a9uhdprgjeiijf3f1g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merokisanbazar",
+            "certificate_hash": "12a4ca124f1cbe9d6e5316615ad0d7702d1e6af9"
+          }
+        },
+        {
+          "client_id": "686544401640-sihvr0n84n6566c5c2g78k8e8g8gbti6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLvqLSoISNdXlObZa3dxLTPJmDMV1QLhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686544401640-sihvr0n84n6566c5c2g78k8e8g8gbti6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
